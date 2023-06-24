@@ -7,7 +7,9 @@
 
 Video:
 
-https://github.com/NigamDevansh/OpenAI-Assistant/assets/88497388/1a5b109d-31cb-43eb-a993-77d9ded89eb8
+https://github.com/NigamDevansh/OpenAI-Assistant/assets/88497388/ca32aa94-1227-4b51-a3e4-a26cd93bce3b
+
+
 
 ## Environment Variables
 
