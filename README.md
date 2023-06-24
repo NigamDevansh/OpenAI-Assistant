@@ -6,8 +6,8 @@
 **caution** : Their are two ways to call the response one is to remain silent. Another method is to first stop the listening by clicking on it and then click response.
 
 Video:
-https://github.com/NigamDevansh/123/assets/88497388/125d137e-df95-420d-b0af-d25360452b91
 
+https://github.com/NigamDevansh/OpenAI-Assistant/assets/88497388/1a5b109d-31cb-43eb-a993-77d9ded89eb8
 
 ## Environment Variables
 
