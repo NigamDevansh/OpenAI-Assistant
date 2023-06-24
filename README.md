@@ -30,7 +30,7 @@ How to get environment variables:
 Clone the project
 
 ```bash
-  git clone https://github.com/NigamDevansh/openai_Assistant
+  git clone https://github.com/NigamDevansh/OpenAI-Assistant
 ```
 
 Go to the project directory
