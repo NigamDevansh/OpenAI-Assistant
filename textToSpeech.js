@@ -57,7 +57,6 @@ async function textToSpeechFile(text) {
 
 	//Define an audioConfig
 	//This should generate audio output on the device speakers
-	//But that is not working
 	const audioConfig = {
 		effectsProfileId: [
 			"headphone-class-device",
